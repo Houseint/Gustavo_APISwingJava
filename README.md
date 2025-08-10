@@ -1,6 +1,5 @@
 # 💻 Gustavo_APISwingJava
-
-Bem-vindo ao repositório **Gustavo_APISwingJava**!  
+  
 Este projeto apresenta uma interface gráfica simples desenvolvida com **Java Swing** e **AWT**, focada em um sistema de **Cadastro de Usuário**.
 
 ---
@@ -40,9 +39,3 @@ O botão **Cadastrar** possui uma lógica simples para validar os dados inserido
 > Interface gráfica intuitiva e funcional, ideal para fins didáticos e aprendizado de desenvolvimento com Java GUI.
 
 ---
-
-## 🚀 Como rodar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Gustavo_APISwingJava.git
