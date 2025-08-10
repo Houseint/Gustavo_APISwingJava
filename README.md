@@ -33,9 +33,3 @@ O botão **Cadastrar** possui uma lógica simples para validar os dados inserido
 - **AWT (Abstract Window Toolkit)**
 
 ---
-
-## 📸 Interface
-
-> Interface gráfica intuitiva e funcional, ideal para fins didáticos e aprendizado de desenvolvimento com Java GUI.
-
----
